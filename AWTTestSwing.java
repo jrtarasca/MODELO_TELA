@@ -9,12 +9,12 @@ public class AWTTestSwing {
         frame.setSize(400, 200); // Tamanho da janela
         frame.setLayout(new BorderLayout()); // Define o layout da janela
 
-        JLabel label1 = new JLabel("Label1:"); // Cria um rótulo.
+        JLabel label1 = new JLabel("Label1:"); // Cria um rótulo
         JTextField textField1 = new JTextField(15); // Cria um campo de texto
 
         JPanel topPanel = new JPanel(); // Painel para o rótulo e campo
         topPanel.setLayout(new FlowLayout()); // Layout em linha
-        topPanel.add(label1); // Adiciona o rótulo.
+        topPanel.add(label1); // Adiciona o rótulo
         topPanel.add(textField1); // Adiciona o campo de texto
 
         // Cria três botões.
@@ -33,4 +33,5 @@ public class AWTTestSwing {
 
         frame.setVisible(true); // Torna a janela visível
     }
+    
 }

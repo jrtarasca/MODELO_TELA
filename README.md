@@ -17,7 +17,7 @@ CRIE UM REPOSITÓRIO REMOTO E NOMEIE COM MODELO_TELA
 Vs Code 
 
 ```
-Itellij
+Intellij
 ```
 
 ### 🔧 Instalação
